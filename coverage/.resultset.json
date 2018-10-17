@@ -1,0 +1,101 @@
+{
+  "Cucumber Features": {
+    "coverage": {
+      "/Users/angicostantini/Desktop/Craft Academy/earlybirds/app/channels/application_cable/channel.rb": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "/Users/angicostantini/Desktop/Craft Academy/earlybirds/app/channels/application_cable/connection.rb": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "/Users/angicostantini/Desktop/Craft Academy/earlybirds/app/controllers/application_controller.rb": [
+        0,
+        0
+      ],
+      "/Users/angicostantini/Desktop/Craft Academy/earlybirds/app/controllers/articles_controller.rb": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "/Users/angicostantini/Desktop/Craft Academy/earlybirds/app/helpers/application_helper.rb": [
+        0,
+        0
+      ],
+      "/Users/angicostantini/Desktop/Craft Academy/earlybirds/app/jobs/application_job.rb": [
+        0,
+        0
+      ],
+      "/Users/angicostantini/Desktop/Craft Academy/earlybirds/app/mailers/application_mailer.rb": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "/Users/angicostantini/Desktop/Craft Academy/earlybirds/app/models/application_record.rb": [
+        0,
+        0,
+        0
+      ]
+    },
+    "timestamp": 1539767526
+  },
+  "RSpec": {
+    "coverage": {
+      "/Users/angicostantini/Desktop/Craft Academy/earlybirds/app/helpers/application_helper.rb": [
+        1,
+        null
+      ],
+      "/Users/angicostantini/Desktop/Craft Academy/earlybirds/app/models/article.rb": [
+        1,
+        1,
+        1,
+        1,
+        null
+      ],
+      "/Users/angicostantini/Desktop/Craft Academy/earlybirds/app/models/application_record.rb": [
+        1,
+        1,
+        null
+      ],
+      "/Users/angicostantini/Desktop/Craft Academy/earlybirds/app/channels/application_cable/channel.rb": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "/Users/angicostantini/Desktop/Craft Academy/earlybirds/app/channels/application_cable/connection.rb": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "/Users/angicostantini/Desktop/Craft Academy/earlybirds/app/controllers/application_controller.rb": [
+        0,
+        0
+      ],
+      "/Users/angicostantini/Desktop/Craft Academy/earlybirds/app/controllers/articles_controller.rb": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "/Users/angicostantini/Desktop/Craft Academy/earlybirds/app/jobs/application_job.rb": [
+        0,
+        0
+      ],
+      "/Users/angicostantini/Desktop/Craft Academy/earlybirds/app/mailers/application_mailer.rb": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "timestamp": 1539768426
+  }
+}
